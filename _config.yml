@@ -8,7 +8,7 @@ name: Negro Lito
 # Short bio or description (displayed in the header)
 description: Literatura y software libre.
 
-url:https://github.com/NegroLito/negrolito.github.io
+url: "https://github.com/NegroLito/negrolito.github.io"
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
