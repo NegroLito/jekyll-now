@@ -1,7 +1,7 @@
----------
-layout: 	title
-post:    You're up and running!
----------
+---
+layout: post
+title: You're up and running!
+---
 
 # Este es un título.
 
