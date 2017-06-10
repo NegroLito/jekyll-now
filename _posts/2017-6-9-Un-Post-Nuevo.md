@@ -1,4 +1,7 @@
 
+layout 	title
+post    You're up and running!
+
 # Este es un título.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In eu fringilla mi, ac posuere lorem. Mauris eros magna, egestas sit amet tellus sed, hendrerit porta elit. Suspendisse vulputate nibh ex, quis venenatis risus lacinia egestas. Praesent consequat blandit vestibulum. Curabitur dignissim dapibus ex, et vulputate tortor porta a. Curabitur egestas cursus ante. Maecenas venenatis lacus et purus suscipit, sed elementum nibh tincidunt. Nam faucibus sem at quam tempus, nec viverra massa posuere. Sed eu ligula ornare magna hendrerit dignissim. Duis sit amet fringilla ipsum.
