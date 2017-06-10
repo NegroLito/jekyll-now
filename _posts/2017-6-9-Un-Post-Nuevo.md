@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Si te pica, rascate
 ---
 
 # Este es un título.
