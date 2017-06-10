@@ -1,6 +1,7 @@
-
-layout 	title
-post    You're up and running!
+---------
+layout: 	title
+post:    You're up and running!
+---------
 
 # Este es un título.
 
@@ -8,6 +9,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. In eu fringilla mi, ac 
 
 Aenean consectetur rhoncus massa ac suscipit. Ut ullamcorper augue ac purus congue, et fermentum nulla elementum. Aenean sed ex sed leo ultrices pharetra sed eu odio. Cras non arcu diam. Proin mi erat, fringilla ac maximus eget, lobortis at justo. Ut lobortis magna ac arcu laoreet, at elementum elit consequat. Vivamus quis leo sed mi semper rhoncus. Etiam quis neque ut velit cursus laoreet rhoncus nec justo. Aenean et leo ut diam placerat fringilla. Proin porttitor sit amet libero ac pharetra.
 
+## Otro título
 Praesent viverra sollicitudin posuere. Duis faucibus lectus nec mattis vulputate. Vivamus vulputate consectetur sem, sed auctor ante tempor quis. Donec hendrerit tellus ex, a volutpat ex convallis non. Etiam commodo nibh eu ex interdum viverra. Aenean eget diam nibh. Etiam malesuada lectus quis lorem dictum dapibus. Donec ex massa, sagittis id dolor non, pretium interdum nisi. Phasellus elementum odio sed porttitor blandit. Donec commodo vel nisl in auctor. Fusce urna sem, mattis ac fermentum non, tincidunt sed justo. Curabitur purus libero, convallis at mollis id, consequat vel dolor. Sed eget aliquam leo. Donec scelerisque venenatis blandit. Integer euismod rutrum purus quis vehicula. Pellentesque risus metus, finibus eu dui vel, tempus elementum enim.
 
 Mauris est ipsum, eleifend at ligula quis, ultricies auctor orci. Curabitur eu ex risus. Nulla vehicula libero elit, non mattis felis rutrum ac. Etiam tortor augue, egestas a varius sed, volutpat et sem. Donec in tellus aliquam, auctor justo ut, elementum tortor. Integer convallis odio ac dolor malesuada dictum. Vestibulum eleifend orci augue. Quisque pulvinar eget mauris ac iaculis. Quisque placerat, arcu nec pharetra posuere, neque ante consectetur mi, in porta elit sem ut lacus. Nullam volutpat tempus nisl at auctor. Proin quam quam, commodo commodo pellentesque at, dapibus nec lorem. Sed sollicitudin lorem et felis gravida feugiat. Proin non convallis augue, eu pharetra est.
