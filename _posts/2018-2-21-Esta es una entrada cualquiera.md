@@ -1,4 +1,5 @@
-
+layout 	title
+post    Esta es una entrada cualquiera
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed augue a turpis aliquet cursus et nec tellus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec id lacus cursus, cursus ante sit amet, iaculis diam. Ut lacus nunc, porta at dignissim sed, pulvinar ut lorem. Duis porttitor mollis purus, in tempor mauris semper in. Suspendisse at posuere metus. Aliquam vel tellus elit. Duis eu feugiat lorem. Duis at felis nisi. Donec lacus augue, luctus nec elit ut, vehicula pharetra eros. Vestibulum in nibh eu ex interdum dapibus ut eu dui. Etiam vel lectus nisi. Vivamus ultricies, arcu eu venenatis tempus, est turpis lobortis urna, posuere dictum magna sapien et dolor. Vivamus auctor imperdiet turpis, nec euismod nunc. Curabitur fringilla diam orci, tristique feugiat ante faucibus et. Phasellus venenatis diam vel enim accumsan, nec mollis purus tincidunt.
 
