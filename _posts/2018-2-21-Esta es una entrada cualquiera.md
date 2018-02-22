@@ -1,6 +1,6 @@
 ---
 layout: title
-post:  Esta es una entrada cualquiera
+post: Esta es una entrada cualquiera
 ---
 
 
